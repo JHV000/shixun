@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Dec 29 10:56:12 CST 2020
+org.eclipse.jst.j2ee.server\:shixun=D\:\\tomcat-7-32\\apache-tomcat-7.0.94\\webapps\\shixun
+org.eclipse.jst.j2ee.server\:/binary\:D\:\\MavenRepository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=D\:\\tomcat-7-32\\apache-tomcat-7.0.94\\webapps\\shixun\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
